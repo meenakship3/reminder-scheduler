@@ -25,7 +25,7 @@ In the GUI, the user can pick what kind of a reminder they would like to receive
 ## ⚙️ installation
 1. Clone the repository
 2. Set up a data.csv with the following columns - (template,date,time,subject,status)
-3. Run the program each time you would like to add a reminder and check for a reminder
+3. Run the program each time you would like to add a reminder and/or check for a reminder
 
 ## 🖼️ screenshots
 <img width="457" alt="GUI" src="https://github.com/user-attachments/assets/ec96e7e1-ea34-4850-8f91-d80bb6d35f23">
