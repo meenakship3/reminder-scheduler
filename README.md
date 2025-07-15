@@ -10,9 +10,6 @@ In the GUI, the user can pick what kind of a reminder they would like to receive
 - Pandas
 - Twilio
 
-## current status
-🚧 **Work in Progress**: This project is actively being developed and improved, new features will be added soon. Check back for updates!
-
 ## ✨ features
 - [x] GUI to add reminders
 - [x] Send SMS reminders via Twilio
